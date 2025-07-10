@@ -85,7 +85,7 @@ Then visit: `http://localhost:8000`
 
 ### ✅ Task List with Items
 
-![Task List with Items](screenshots/task_list_with_items.png)
+![Task List with Items](screenshots/task_list_with_item.png)
 
 ### ➕ Add a New Task
 
