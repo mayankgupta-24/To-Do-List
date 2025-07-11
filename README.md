@@ -11,6 +11,7 @@ This is a minimalist To Do List application where users can:
 * Add new tasks
 * Edit/update existing tasks
 * Delete tasks
+* Dockerization
 
 This project is useful for beginners learning Django, Docker, and deployment workflows.
 
