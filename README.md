@@ -1,6 +1,6 @@
 # To Do List Web Application
 
-A simple web-based To Do List app built with Django where users can manage tasks with basic CRUD operations.
+A simple web-based To Do List app built with Django where users can manage tasks with basic CRUD operations then dockerized it and make it deployment ready on IBM Cloud Code Engine.
 
 ---
 
